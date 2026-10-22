@@ -1,0 +1,42 @@
+{
+  "default": "tr",
+  "enabled": ["tr", "en"],
+  "locales": {
+    "tr": {
+      "name": "Turkish",
+      "nativeName": "Türkçe",
+      "bcp47": "tr-TR",
+      "direction": "ltr"
+    },
+    "en": {
+      "name": "English",
+      "nativeName": "English",
+      "bcp47": "en-US",
+      "direction": "ltr"
+    },
+    "ru": {
+      "name": "Russian",
+      "nativeName": "Русский",
+      "bcp47": "ru-RU",
+      "direction": "ltr"
+    },
+    "ar": {
+      "name": "Arabic",
+      "nativeName": "العربية",
+      "bcp47": "ar",
+      "direction": "rtl"
+    },
+    "es": {
+      "name": "Spanish",
+      "nativeName": "Español",
+      "bcp47": "es-ES",
+      "direction": "ltr"
+    },
+    "uk": {
+      "name": "Ukrainian",
+      "nativeName": "Українська",
+      "bcp47": "uk-UA",
+      "direction": "ltr"
+    }
+  }
+}
